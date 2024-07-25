@@ -256,7 +256,7 @@ main {
   opacity: 0.8;
 }
 aside {
-  padding: 0rem 7rem 4rem 7rem;
+  padding: 4rem 7rem 4rem 7rem;
   display: flex;
   flex-direction: column;
   justify-content: center;
